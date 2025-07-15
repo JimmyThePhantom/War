@@ -1,0 +1,3 @@
+-Set the number of game you want to run by changing the "gamesRun" variable
+-Run main.py
+-Observe the beauty
